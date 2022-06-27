@@ -1,0 +1,26 @@
+/* Global CSS used within your BEX. This is not preprocessed so this has to be pure CSS. */
+.target-some-header-class {
+  margin-top: 62px;
+}
+.warning-observation {
+  border: 5px solid rgb(255, 153, 0);
+}
+.warning-observation-element {
+  border: 1px solid rgba(255, 153, 0, 0.781);
+  color: black;
+  border-radius: 5px;
+  background-color: rgba(255, 251, 0, 0.829);
+  padding: 5px;
+  box-shadow: 5px 5px 5px #d7d4d4;
+}
+.error-observation {
+  border: 5px solid rgba(255, 0, 0, 0.849);
+}
+.error-observation-element {
+  border: 1px solid rgba(255, 0, 0, 0.651);
+  color: white;
+  border-radius: 5px;
+  background-color: rgba(255, 0, 0, 0.808);
+  padding: 5px;
+  box-shadow: 5px 5px 5px #d7d4d4;
+}
